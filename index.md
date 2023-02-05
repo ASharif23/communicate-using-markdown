@@ -12,3 +12,8 @@
 $ git init
 Initialized full Git repository in /Users/talents/Projects/basketball-repository/.git/
 ```
+
+
+- [x] pass this test
+- [ ] pass this class
+- [ ] get my degree
